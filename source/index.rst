@@ -10,7 +10,7 @@ Welcome to mako's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   BasicUsage
 
 Indices and tables
 ==================
