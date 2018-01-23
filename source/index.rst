@@ -8,8 +8,8 @@ mako 中文文档
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+   Usage
    Usage/BasicUsage
    Usage/UsingFileBasedTemplates
 
