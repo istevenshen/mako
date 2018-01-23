@@ -10,8 +10,8 @@ mako 中文文档
    :maxdepth: 2
    :caption: Contents:
 
-   BasicUsage
-   UsingFileBasedTemplates
+   Usage/BasicUsage
+   Usage/UsingFileBasedTemplates
 
 Indices and tables
 ==================
