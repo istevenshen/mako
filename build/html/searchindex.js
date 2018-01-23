@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["BasicUsage","index"],envversion:53,filenames:["BasicUsage.rst","index.rst"],objects:{},objnames:{},objtypes:{},terms:{"basic ":0,usage:0},titles:["&lt;no title&gt;","Welcome to mako's documentation!"],titleterms:{"and ":1,"documentation!":1,"indices ":1,"mako'":1,"s ":1,"to ":1,"welcome ":1,tabl:1}})
