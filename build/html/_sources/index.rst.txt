@@ -10,8 +10,7 @@ mako 中文文档
    :maxdepth: 2
 
    Usage
-   Usage/BasicUsage
-   Usage/UsingFileBasedTemplates
+   Syntax
 
 Indices and tables
 ==================
