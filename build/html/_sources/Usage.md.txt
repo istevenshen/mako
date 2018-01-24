@@ -8,7 +8,7 @@ Mako 的主页地址：[http://www.makotemplates.org/docs/usage.html](http://www
 
 相比而言，Django 内建的模板引擎，为了维持所谓模板语法的纯粹性和简单性，更纯粹的满足 MVC 模式的规定，牺牲了很多灵活性，一些高级的功能不得不利用 tag 和 filter 来实现，其写法并不太方便。而我前一阵为此事苦恼过，曾经想如何在 Django 中借鉴一点 Karrigell 那样自由的 pih 方式，但自己时间太少最终又不了了之。
 
-## 测试段落
+## TEST DEMO 1
 
 因此，将 Mako 集成到 Django 中，以取代 Django 自带的模板引擎，也许是一个不错的办法。可以提高模板的灵活性和可操作性。
 

@@ -36,7 +36,7 @@
               href="genindex.html"/>
         <link rel="search" title="搜索" href="search.html"/>
     <link rel="top" title="mako 1.0.8 文档" href="index.html"/>
-        <link rel="next" title="Basic Usage" href="Usage/BasicUsage.html"/>
+        <link rel="next" title="Expression Substitution" href="Syntax.html"/>
         <link rel="prev" title="mako 中文文档" href="index.html"/> 
 
   
@@ -89,11 +89,12 @@
               <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">用法</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#">基本用法</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#">测试段落</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#test-demo-1">TEST DEMO 1</a></li>
 </ul>
 </li>
-<li class="toctree-l1"><a class="reference internal" href="Usage/BasicUsage.html">Basic Usage</a></li>
-<li class="toctree-l1"><a class="reference internal" href="Usage/UsingFileBasedTemplates.html">Using File-Based Templates</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Syntax.html">Expression Substitution</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Syntax.html#expression-escaping">Expression Escaping</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Syntax.html#control-structures">Control Structures</a></li>
 </ul>
 
             
@@ -165,8 +166,8 @@
 <p>Mako 的主页地址：<a class="reference external" href="http://www.makotemplates.org/docs/usage.html">http://www.makotemplates.org/docs/usage.html</a></p>
 <p>相比而言，Django 内建的模板引擎，为了维持所谓模板语法的纯粹性和简单性，更纯粹的满足 MVC 模式的规定，牺牲了很多灵活性，一些高级的功能不得不利用 tag 和 filter 来实现，其写法并不太方便。而我前一阵为此事苦恼过，曾经想如何在 Django 中借鉴一点 Karrigell 那样自由的 pih 方式，但自己时间太少最终又不了了之。</p>
 </div>
-<div class="section" id="">
-<span id="id3"></span><h2>测试段落<a class="headerlink" href="#" title="永久链接至标题">¶</a></h2>
+<div class="section" id="test-demo-1">
+<span id="test-demo-1"></span><h2>TEST DEMO 1<a class="headerlink" href="#test-demo-1" title="永久链接至标题">¶</a></h2>
 <p>因此，将 Mako 集成到 Django 中，以取代 Django 自带的模板引擎，也许是一个不错的办法。可以提高模板的灵活性和可操作性。</p>
 <p>这一节介绍 Mako template 的 Python API. 如果你在 Pylons 之类的 web 框架中使用 Mako，那么集成 Mako API 的工作也许已经给你做好了。你可以直接跳到下一节，</p>
 </div>
@@ -182,7 +183,7 @@
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="Usage/BasicUsage.html" class="btn btn-neutral float-right" title="Basic Usage" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="Syntax.html" class="btn btn-neutral float-right" title="Expression Substitution" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="index.html" class="btn btn-neutral" title="mako 中文文档" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
