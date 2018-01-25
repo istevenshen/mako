@@ -1,3 +1,3 @@
-- [开始](zh-cn/doc_start)
+- [开始](zh-cn/doc_get_start)
 - [详情](zh-cn/doc_details)
 - [资料](zh-cn/doc_ref)
