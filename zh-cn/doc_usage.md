@@ -1,6 +1,6 @@
 ## 基本用法
 
-这一节介绍 Mako template 的 Python API. 如果你在 Pylons 之类的 web 框架中使用 Mako，那么集成 Mako API 的工作也许已经给你做好了。你可以直接跳到下一节，[语法](zh/doc_syntax)。
+这一节介绍 Mako template 的 Python API. 如果你在 Pylons 之类的 web 框架中使用 Mako，那么集成 Mako API 的工作也许已经给你做好了。你可以直接跳到下一节，[语法](zh-cn/doc_syntax)。
 
 最简单的办法是通过 Template 类，创建模板并渲染之：
 ```
