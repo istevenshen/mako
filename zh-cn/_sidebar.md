@@ -1,3 +1,5 @@
-- [开始](zh-cn/doc_get_start)
-- [详情](zh-cn/doc_details)
-- [资料](zh-cn/doc_ref)
+- [用法](zh-cn/doc_usage)
+- [语法](zh-cn/doc_syntax)
+- [函数定义与块元素](zh-cn/doc_defs_blocks)
+- [运行时环境](zh-cn/doc_runtime_env)
+- [名称空间](zh-cn/doc_namespaces)
